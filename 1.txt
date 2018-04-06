@@ -1,2 +1,6 @@
+<<<<<<< b3e3345b0c39bbd54fb4e0df7fce16183645fbbd
 hai this is srav
 
+=======
+hello world
+>>>>>>> fuke u
